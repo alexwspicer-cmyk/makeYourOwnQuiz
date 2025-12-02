@@ -47,9 +47,8 @@
             this.titleLabel.BackColor = System.Drawing.Color.White;
             this.titleLabel.Font = new System.Drawing.Font("High Tower Text", 25.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.titleLabel.Location = new System.Drawing.Point(0, 0);
-            this.titleLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.titleLabel.Name = "titleLabel";
-            this.titleLabel.Size = new System.Drawing.Size(608, 71);
+            this.titleLabel.Size = new System.Drawing.Size(811, 87);
             this.titleLabel.TabIndex = 0;
             this.titleLabel.Text = "The Kiran Quiz";
             this.titleLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -59,10 +58,9 @@
             this.bylineLabel.BackColor = System.Drawing.Color.Transparent;
             this.bylineLabel.Font = new System.Drawing.Font("High Tower Text", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bylineLabel.ForeColor = System.Drawing.Color.White;
-            this.bylineLabel.Location = new System.Drawing.Point(-4, 71);
-            this.bylineLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.bylineLabel.Location = new System.Drawing.Point(-5, 87);
             this.bylineLabel.Name = "bylineLabel";
-            this.bylineLabel.Size = new System.Drawing.Size(611, 28);
+            this.bylineLabel.Size = new System.Drawing.Size(815, 34);
             this.bylineLabel.TabIndex = 1;
             this.bylineLabel.Text = "Test Your Knowledge Of Kiran Paul Simmons";
             this.bylineLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -72,10 +70,9 @@
             this.instructLabel.BackColor = System.Drawing.Color.Transparent;
             this.instructLabel.Font = new System.Drawing.Font("High Tower Text", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.instructLabel.ForeColor = System.Drawing.Color.White;
-            this.instructLabel.Location = new System.Drawing.Point(-4, 114);
-            this.instructLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.instructLabel.Location = new System.Drawing.Point(-5, 140);
             this.instructLabel.Name = "instructLabel";
-            this.instructLabel.Size = new System.Drawing.Size(611, 28);
+            this.instructLabel.Size = new System.Drawing.Size(815, 34);
             this.instructLabel.TabIndex = 2;
             this.instructLabel.Text = "Click Start To Begin!";
             this.instructLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -85,10 +82,10 @@
             this.startButton.BackColor = System.Drawing.Color.Black;
             this.startButton.Font = new System.Drawing.Font("High Tower Text", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.startButton.ForeColor = System.Drawing.Color.White;
-            this.startButton.Location = new System.Drawing.Point(198, 144);
-            this.startButton.Margin = new System.Windows.Forms.Padding(2);
+            this.startButton.Location = new System.Drawing.Point(264, 177);
+            this.startButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.startButton.Name = "startButton";
-            this.startButton.Size = new System.Drawing.Size(211, 66);
+            this.startButton.Size = new System.Drawing.Size(281, 81);
             this.startButton.TabIndex = 3;
             this.startButton.Text = "START";
             this.startButton.UseVisualStyleBackColor = false;
@@ -99,10 +96,10 @@
             this.questionButton1.BackColor = System.Drawing.Color.Black;
             this.questionButton1.Font = new System.Drawing.Font("High Tower Text", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.questionButton1.ForeColor = System.Drawing.Color.White;
-            this.questionButton1.Location = new System.Drawing.Point(54, 144);
-            this.questionButton1.Margin = new System.Windows.Forms.Padding(2);
+            this.questionButton1.Location = new System.Drawing.Point(72, 177);
+            this.questionButton1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.questionButton1.Name = "questionButton1";
-            this.questionButton1.Size = new System.Drawing.Size(211, 66);
+            this.questionButton1.Size = new System.Drawing.Size(281, 81);
             this.questionButton1.TabIndex = 4;
             this.questionButton1.UseVisualStyleBackColor = false;
             this.questionButton1.Visible = false;
@@ -113,10 +110,10 @@
             this.questionButton2.BackColor = System.Drawing.Color.Black;
             this.questionButton2.Font = new System.Drawing.Font("High Tower Text", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.questionButton2.ForeColor = System.Drawing.Color.White;
-            this.questionButton2.Location = new System.Drawing.Point(343, 144);
-            this.questionButton2.Margin = new System.Windows.Forms.Padding(2);
+            this.questionButton2.Location = new System.Drawing.Point(457, 177);
+            this.questionButton2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.questionButton2.Name = "questionButton2";
-            this.questionButton2.Size = new System.Drawing.Size(211, 66);
+            this.questionButton2.Size = new System.Drawing.Size(281, 81);
             this.questionButton2.TabIndex = 5;
             this.questionButton2.UseVisualStyleBackColor = false;
             this.questionButton2.Visible = false;
@@ -127,10 +124,10 @@
             this.questionButton3.BackColor = System.Drawing.Color.Black;
             this.questionButton3.Font = new System.Drawing.Font("High Tower Text", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.questionButton3.ForeColor = System.Drawing.Color.White;
-            this.questionButton3.Location = new System.Drawing.Point(54, 246);
-            this.questionButton3.Margin = new System.Windows.Forms.Padding(2);
+            this.questionButton3.Location = new System.Drawing.Point(72, 303);
+            this.questionButton3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.questionButton3.Name = "questionButton3";
-            this.questionButton3.Size = new System.Drawing.Size(211, 66);
+            this.questionButton3.Size = new System.Drawing.Size(281, 81);
             this.questionButton3.TabIndex = 6;
             this.questionButton3.UseVisualStyleBackColor = false;
             this.questionButton3.Visible = false;
@@ -141,10 +138,10 @@
             this.questionButton4.BackColor = System.Drawing.Color.Black;
             this.questionButton4.Font = new System.Drawing.Font("High Tower Text", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.questionButton4.ForeColor = System.Drawing.Color.White;
-            this.questionButton4.Location = new System.Drawing.Point(343, 246);
-            this.questionButton4.Margin = new System.Windows.Forms.Padding(2);
+            this.questionButton4.Location = new System.Drawing.Point(457, 303);
+            this.questionButton4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.questionButton4.Name = "questionButton4";
-            this.questionButton4.Size = new System.Drawing.Size(211, 66);
+            this.questionButton4.Size = new System.Drawing.Size(281, 81);
             this.questionButton4.TabIndex = 7;
             this.questionButton4.UseVisualStyleBackColor = false;
             this.questionButton4.Visible = false;
@@ -159,18 +156,19 @@
             // 
             this.remainingTimeLabel.Font = new System.Drawing.Font("High Tower Text", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.remainingTimeLabel.ForeColor = System.Drawing.SystemColors.Control;
-            this.remainingTimeLabel.Location = new System.Drawing.Point(4, 320);
+            this.remainingTimeLabel.Location = new System.Drawing.Point(5, 394);
+            this.remainingTimeLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.remainingTimeLabel.Name = "remainingTimeLabel";
-            this.remainingTimeLabel.Size = new System.Drawing.Size(237, 37);
+            this.remainingTimeLabel.Size = new System.Drawing.Size(316, 46);
             this.remainingTimeLabel.TabIndex = 8;
             this.remainingTimeLabel.Visible = false;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.ClientSize = new System.Drawing.Size(600, 366);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.remainingTimeLabel);
             this.Controls.Add(this.questionButton4);
             this.Controls.Add(this.questionButton3);
@@ -181,7 +179,7 @@
             this.Controls.Add(this.bylineLabel);
             this.Controls.Add(this.titleLabel);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
             this.Text = "The Kiran Quiz";
             this.ResumeLayout(false);
